@@ -1,0 +1,119 @@
+body {
+    background-color:  #E5E5E5;
+}
+.inputstile {
+    border-radius: 10px;
+}
+.t1 {
+    color:#B14EE0;
+}
+.button5 {background-color: #B14EE0; color:white; border-radius: 1rem; }
+.itype {border-radius: 1rem;   border: 1px solid #B14EE0;}
+.link{ color: #B14EE0; }
+
+.signin{
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 49px;
+
+    color: #000000;
+}
+.signsup{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+    color: #000000;
+}
+.signup{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 29px;
+
+    color: #000000;
+}
+.upbutton{
+    box-sizing: border-box;
+}
+.text-color{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: #B14EE0;
+}
+.forget{
+
+
+    top:369px;
+    font-style:normal;
+    font-weight:700;
+    font-size:24px;
+    line-height:33px;
+}
+.form-style{
+    box-shadow: 0px 0px 40px rgba(2, 46, 99, 0.06);
+    border-radius: 30px;
+}
+.forget-button{
+    /*position: absolute;*/
+    width: 300px;
+    height: 50px;
+    left: 554px;
+    top: 543px;
+    color:white;
+    background: #B14EE0;
+    border-radius: 12px;
+}
+.sign-button{
+    font-family: 'Nunito';
+    width: 250px;
+    height: 40px;
+    left: 553px;
+    top: 615px;
+    color:white;
+    background: #B14EE0;
+    border-radius: 12px;
+}
+.reset{
+
+    /*width: 0px;*/
+    /*height: 30px;*/
+    /*left: 568px;*/
+    top: 318px;
+
+    /*font-family: 'Nunito';*/
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 33px;
+    color: #000000;
+
+}
+.reset-button{
+    width: 333px;
+    height: 50px;
+    left: 554px;
+    top: 593px;
+    color:white;
+    background: #B14EE0;
+    border-radius: 12px;
+}
+#rectangle{
+    width:20px;
+    height:20px;
+    background: #B14EE0;
+}
+.color-pen{
+    top:50px;
+    color:white;
+    text-align: center;
+}

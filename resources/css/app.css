@@ -1,0 +1,12 @@
+
+@import './main.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+/*body {*/
+/*    background-color: #3d7e2d;*/
+/*}*/
